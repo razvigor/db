@@ -1,265 +1,265 @@
 {
-"articles": [
--{
--"source": {
-"id": null,
-"name": "Lifehacker.com"
-},
-"author": "David Murphy",
-"title": "All the New Privacy Settings Google Announced at I/O 2021",
-"description": "I tuned in to Google I/O this year with privacy on the brain. Chalk it up to the recent drama of Facebook-exec-turned-Apple-employee-turned-unemployed-employee Antonio Garcia Martinez, who famously said in 2018:Read more...",
-"url": "https://lifehacker.com/all-the-new-privacy-settings-google-announced-at-i-o-20-1846920118",
-"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d6eed54c636565c3156ee3bad362a204.jpg",
-"publishedAt": "2021-05-18T21:30:00Z",
-"content": "I tuned in to Google I/O this year with privacy on the brain. Chalk it up to the recent drama of Facebook-exec-turned-Apple-employee-turned-unemployed-employee Antonio Garcia Martinez, who famously s… [+5538 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Lifehacker.com"
-},
-"author": "Adam Dachis and A.A. Newton",
-"title": "How to Declutter Your Home: A Start-to-Finish Guide",
-"description": "It’s hard to argue that most of us have a little too much stuff lying around, but getting rid of your stuff can be difficult. Maybe you’ve formed a personal attachment to certain items or you truly believe you’ll have a practical use for it someday. Most of t…",
-"url": "https://lifehacker.com/how-to-de-crapify-your-home-a-start-to-finish-guide-5804927",
-"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8c94053a16a2187ceeb88a8edf79eee.jpg",
-"publishedAt": "2021-05-18T19:00:00Z",
-"content": "Its hard to argue that most of us have a little too much stuff lying around, but getting rid of your stuff can be difficult. Maybe youve formed a personal attachment to certain items or you truly bel… [+6307 chars]"
-},
--{
--"source": {
-"id": "engadget",
-"name": "Engadget"
-},
-"author": "https://www.engadget.com/about/editors/billy-steele",
-"title": "Here's why AirPods Max don't support Apple Music Lossless",
-"description": "Apple Music's entire library will be available in lossless soon, but it won't work with AirPods Max. Here's why that's the case.",
-"url": "https://www.engadget.com/apple-music-lossless-explained-153046070.html",
-"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-12/94691cd6-4493-11eb-bbe7-b42b9c83cac6",
-"publishedAt": "2021-05-18T15:30:46Z",
-"content": "This week, Apple officially announced what had been rumored for a few weeks: lossless audio quality is coming to Apple Music. The higher-quality streaming option will bring CD-quality music at 16-bit… [+5715 chars]"
-},
--{
--"source": {
-"id": "engadget",
-"name": "Engadget"
-},
-"author": "https://www.engadget.com/about/editors/devindra-hardawar",
-"title": "Apple iMac M1 review: The ideal portable desktop",
-"description": "Apple’s new iMac brings together the snappy performance of its M1 chip with a sharp redesign that makes it at home practically anywhere. With its gorgeous screen and surprisingly capable speakers, it’s pretty much the perfect family computer. And it’s so ligh…",
-"url": "https://www.engadget.com/apple-imac-m1-review-24-inch-portable-desktop-130026556.html",
-"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/f4fdff24-b752-11eb-9dfe-20ea8e923d92",
-"publishedAt": "2021-05-18T13:00:26Z",
-"content": "Apple's M1 processor also makes the iMac responsive in little ways. It wakes up almost instantly from sleep mode and gets to the desktop in around 25 seconds from a cold start, which is dramatically … [+5440 chars]"
-},
--{
--"source": {
-"id": "engadget",
-"name": "Engadget"
-},
-"author": "https://www.engadget.com/about/editors/mat-smith",
-"title": "The Morning After: Apple Music adds lossless streaming to its entire catalog",
-"description": "Today’s headlines: AT&T's WarnerMedia is merging with Discovery, Apple Music adds Dolby Atmos and lossless streaming starting next month, Samsung teases its next generation of flexible displays..",
-"url": "https://www.engadget.com/the-morning-after-apple-music-adds-lossless-streaming-to-its-entire-back-catalog-112022150.html",
-"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/f0e41200-b7be-11eb-aebf-f5a613bdf71c",
-"publishedAt": "2021-05-18T11:20:22Z",
-"content": "Today is Googles day, as its I/O developer conference kicks off. The company canceled last years conference entirely\r\n, ensuring theres plenty to show off this time around. What can we expect to see?… [+5782 chars]"
-},
--{
--"source": {
-"id": "engadget",
-"name": "Engadget"
-},
-"author": "https://www.engadget.com/about/editors/jon-fingas",
-"title": "The next MacBook Pros may pair Apple silicon with 64GB of RAM",
-"description": "Apple's redesigned 14- and 16-inch MacBook Pros will reportedly pack new chips that support up to 64GB of RAM, not to mention four Thunderbolt ports..",
-"url": "https://www.engadget.com/apple-macbook-pro-mac-mini-cpu-leaks-151945192.html",
-"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/c3f773a0-b7e5-11eb-bfff-8865a6ff63da",
-"publishedAt": "2021-05-18T15:19:45Z",
-"content": "The 16GB memory ceiling and two Thunderbolt ports on M1-based Macs has left pro users more than a little concerned will the eventual higher-end systems be hobbled compared to their Intel counterparts… [+1836 chars]"
-},
--{
--"source": {
-"id": "engadget",
-"name": "Engadget"
-},
-"author": "https://www.engadget.com/about/editors/mariella-moon",
-"title": "Fitbit's Sense smartwatch falls to a new low of $240 at Amazon",
-"description": "This is your chance to grab Fitbit's Sense smartwatch for $90 less than its original price: It's now available for $240 on Amazon..",
-"url": "https://www.engadget.com/fitbit-sense-smartwatch-new-low-240-amazon-105511337.html",
-"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9b4d0180-b7b9-11eb-af7f-42ccca02580e",
-"publishedAt": "2021-05-18T10:55:11Z",
-"content": "This is your chance to grab Fitbit's Sense smartwatch for $90 less than its original price: It's now available for $240 on Amazon. That's $9 less than its previous all-time low and the lowest price w… [+1569 chars]"
-},
--{
--"source": {
-"id": "techcrunch",
-"name": "TechCrunch"
-},
-"author": "Brian Heater",
-"title": "Apple 24-inch M1 iMac review",
-"description": "Last September we concluded our 27-inch iMac review thusly, The big open question mark here is what the future looks like for the iMac — and how long we’ll have to wait to see it. That is, of course, the perennial question for hardware upgrades, but it’s exac…",
-"url": "http://techcrunch.com/2021/05/18/apple-24-inch-m1-imac-review/",
-"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/CMC_9190.jpg?w=600",
-"publishedAt": "2021-05-18T13:00:16Z",
-"content": "Last September we concludedour 27-inch iMac review thusly,\r\nThe big open question mark here is what the future looks like for the iMac and how long well have to wait to see it. That is, of course, th… [+16128 chars]"
-},
--{
--"source": {
-"id": "techcrunch",
-"name": "TechCrunch"
-},
-"author": "Frederic Lardinois",
-"title": "Android now powers 3B devices",
-"description": "Google’s Android operating system is now running on 3 billion active devices, Google announced at its (virtual) I/O developer conference today. In a briefing before today’s event, the company also noted that there were 250 million active tablets running Andro…",
-"url": "http://techcrunch.com/2021/05/18/android-now-powers-3b-devices/",
-"urlToImage": "https://techcrunch.com/wp-content/uploads/2019/02/00100dPORTRAIT_00100_BURST20190225082039558_COVER.jpg?w=711",
-"publishedAt": "2021-05-18T18:19:56Z",
-"content": "Google’s Android operating system is now running on 3 billion active devices, Google announced at its (virtual) I/O developer conference today. In a briefing before today’s event, the company also no… [+875 chars]"
-},
--{
--"source": {
-"id": "techcrunch",
-"name": "TechCrunch"
-},
-"author": "Brian Heater",
-"title": "Google and Samsung are teaming up to take on Apple’s watchOS",
-"description": "With a long-standing history of working together on the mobile side, it’s always been a bit of surprise that Samsung hasn’t had much patience for Google’s wearables play. The hardware giant had flirted with Android Wear in the past, but for the last several y…",
-"url": "http://techcrunch.com/2021/05/18/google-and-samsung-are-teaming-up-to-take-on-apples-watchos/",
-"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/wear-os-samsung-google-io-2021.jpg?w=711",
-"publishedAt": "2021-05-18T18:33:05Z",
-"content": "With a long-standing history of working together on the mobile side, its always been a bit of surprise that Samsung hasnt had much patience for Googles wearables play. The hardware giant had flirted … [+1657 chars]"
-},
--{
--"source": {
-"id": "techcrunch",
-"name": "TechCrunch"
-},
-"author": "Sarah Perez",
-"title": "Spotify to add automatic transcripts for its own Exclusive and Original podcasts",
-"description": "Spotify is taking the first step towards making transcripts available for the podcasts on its service. The company announced this morning it’s soon launching a limited beta that will introduce automatic transcripts for its own Spotify Exclusive and Original s…",
-"url": "http://techcrunch.com/2021/05/18/spotify-to-add-automatic-transcripts-for-its-own-exclusive-and-original-podcasts/",
-"urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1048258424.jpg?w=599",
-"publishedAt": "2021-05-18T15:52:53Z",
-"content": "Spotify is taking the first step towards making transcripts available for the podcasts on its service. The company announced this morning it’s soon launching a limited beta that will introduce automa… [+2411 chars]"
-},
--{
--"source": {
-"id": "techcrunch",
-"name": "TechCrunch"
-},
-"author": "Ingrid Lunden",
-"title": "Extend raises $260M on a $1.6B valuation to expand its warranty and protection plan services",
-"description": "A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to buy and file claims against them — is today announcing a huge…",
-"url": "http://techcrunch.com/2021/05/18/extend-raises-260m-on-a-1-6b-valuation-to-expand-its-warranty-and-protection-plan-services/",
-"urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/extend.jpg?w=487",
-"publishedAt": "2021-05-18T14:01:44Z",
-"content": "A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to b… [+4729 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Gizmodo.com"
-},
-"author": "Victoria Song",
-"title": "Apple Is Reportedly Going to Replace the M1 With a Crapload of New Chips",
-"description": "Now that Apple’s begun rolling out its M1 product lineup, it’s now reportedly gearing up for the next wave of computers powered by the chip’s multiple successors. And readers, we’re talking about a lot of computers and chips here.Read more...",
-"url": "https://gizmodo.com/apple-is-reportedly-going-to-replace-the-m1-with-a-crap-1846918048",
-"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f6363f55226ea82661e91f3f87850abb.jpg",
-"publishedAt": "2021-05-18T16:45:00Z",
-"content": "Now that Apples begun rolling out its M1 product lineup, its now reportedly gearing up for the next wave of computers powered by the chips multiple successors. And readers, were talking about a lot o… [+2692 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Gizmodo.com"
-},
-"author": "Caitlin McGarry",
-"title": "The New Era of iMacs Brings the M1 Chip, a Pop of Color, and a Camera That Does the Lord's Work",
-"description": "My early computing days were spent using the family PC, a hulking tower and beefy monitor that sat atop a desk in the dining room. It was not a cute machine and you had absolutely no privacy when you used it, but it belonged to everyone. My siblings and I too…",
-"url": "https://gizmodo.com/the-new-era-of-imacs-brings-the-m1-chip-a-pop-of-color-1846906927",
-"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/28aa1e42d6e3a0a508b9fc047a99324f.jpg",
-"publishedAt": "2021-05-18T13:00:00Z",
-"content": "My early computing days were spent using the family PC, a hulking tower and beefy monitor that sat atop a desk in the dining room. It was not a cute machine and you had absolutely no privacy when you… [+13539 chars]"
-},
--{
--"source": {
-"id": "mashable",
-"name": "Mashable"
-},
-"author": "Brenda Stolyar",
-"title": "Apple's 24-inch iMac puts the fun back in family computer",
-"description": "When Apple introduced its 27-inch iMac last year, I had a strong feeling the company was attempting to bring back the family computer. And this year, it looks like Apple actually delivered.\nThe new, colorful 24-inch iMac, which starts at $1,200 and begins shi…",
-"url": "https://mashable.com/article/apple-imac-24-inch-review-2021/",
-"urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F75%252F54fa8b5f79ee41c187160a0dfd67855c.a47ef.jpg%252F1200x630.jpg?signature=M3sZS8ZK_J8AUENJdJpmw7TtKyg=",
-"publishedAt": "2021-05-18T13:00:00Z",
-"content": "When Apple introduced its 27-inch iMac last year, I had a strong feeling the company was attempting to bring back the family computer. And this year, it looks like Apple actually delivered.\r\nThe new,… [+8512 chars]"
-},
--{
--"source": {
-"id": "mashable",
-"name": "Mashable"
-},
-"author": "Stan Schroeder",
-"title": "Spotify menu suggests HiFi streaming might launch soon",
-"description": "In February, Spotify announced a new membership tier called Spotify HiFi, allowing users to listen to music in lossless audio quality. \nNow, right after Apple announced its hi-res streaming feature as part of Apple Music, Spotify finally seems to be getting r…",
-"url": "https://mashable.com/article/spotify-hifi-icon/",
-"urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc9%252Ffa5d123d19fd4b1b84959e24b3bf76a7.f1993.png%252F1200x630.png?signature=AE1A4zNzRd6mbo_iM72XWTdHBk4=",
-"publishedAt": "2021-05-18T13:44:13Z",
-"content": "In February, Spotify announced a new membership tier called Spotify HiFi, allowing users to listen to music in lossless audio quality. \r\nNow, right after Apple announced its hi-res streaming feature … [+1873 chars]"
-},
--{
--"source": {
-"id": "mashable",
-"name": "Mashable"
-},
-"author": "Sasha Lekach",
-"title": "You'll soon be able to unlock your car with Android 12's digital key",
-"description": "Your phone just turned into a car key. \nAt the Google I/O virtual event Tuesday, the company announced a digital car key as part of Android 12. The digital car keys will lock, unlock, and start the car from select Pixel and Samsung Galaxy phones. \nStarting la…",
-"url": "https://mashable.com/article/google-io-2021-android-digital-car-key/",
-"urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F09%252F0bfcaa80e7c243beb44f1172df615756.782fd.png%252F1200x630.png?signature=g7Ofu5cFUigyNLYdF4MSV7i1iew=",
-"publishedAt": "2021-05-18T21:15:00Z",
-"content": "Your phone just turned into a car key. \r\nAt the Google I/O virtual event Tuesday, the company announced a digital car key as part of Android 12. The digital car keys will lock, unlock, and start the … [+1520 chars]"
-},
--{
--"source": {
-"id": "mashable",
-"name": "Mashable"
-},
-"author": "Haley Henschel",
-"title": "Apple's new 24-inch M1 iMac hasn't even come out yet and it's already on sale",
-"description": "SAVE $63.98: As of May 18, the blue entry-level configuration of the new 24-inch Apple iMac (2021) is on sale for the first time ever — pre-order it through Amazon for just $1,258.99 ahead of its June 1 release date (down $40.01 from its $1,299 MSRP), and you…",
-"url": "https://mashable.com/shopping/may-18-apple-24-inch-m1-imac-2021/",
-"urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F9c%252F5bf4bafe012949f3b305890d74dbd406.1f244.png%252F1200x630.png?signature=zVOhzUJW5DGDJN-l3j2-vMoPLi8=",
-"publishedAt": "2021-05-18T16:44:37Z",
-"content": "SAVE $63.98: As of May 18, the blue entry-level configuration of the new 24-inch Apple iMac (2021) is on sale for the first time ever  pre-order it through Amazon for just $1,258.99 ahead of its June… [+2159 chars]"
-},
--{
--"source": {
-"id": "mashable",
-"name": "Mashable"
-},
-"author": "Jae Thomas",
-"title": "Save 45% on a wireless charging pad that can power up 3 devices at once",
-"description": "TL;DR: Charge away with this 3-in-1 Wireless Charging Pad, on sale for $32.99 — a 45% discount — as of May 18.\n\nIf you haven't already ditched charging cables for good, you're in luck — this 3-in-1 Wireless Charging Pad is on sale for a limited time.\nThis pad…",
-"url": "https://mashable.com/shopping/may-18-3-in-1-wireless-charging-pad/",
-"urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc2%252Ffe5e5c3ada4d44aca125b17adba918eb.29771.jpg%252F1200x630.jpg?signature=lmm_4CgLl3uHK9SabTH6_NZCoDY=",
-"publishedAt": "2021-05-18T09:00:00Z",
-"content": "TL;DR: Charge away with this3-in-1 Wireless Charging Pad, on sale for $32.99 a 45% discount as of May 18.\r\nIf you haven't already ditched charging cables for good, you're in luck this 3-in-1 Wireless… [+783 chars]"
-},
--{
--"source": {
-"id": "cnn",
-"name": "CNN"
-},
-"author": null,
-"title": "Prince Harry and Oprah discuss mental health in new series trailer",
-"description": "Prince Harry speaks about mental health in the trailer for an Apple TV+ documentary series with Oprah Winfrey, which aims to destigmatize the topic.",
-"url": "https://www.cnn.com/videos/media/2021/05/18/prince-harry-oprah-mental-health-interview-the-me-you-cant-see-bts-mxp-vpx.hln",
-"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518094823-prince-harry-doc-series-vpx-super-tease.jpg",
-"publishedAt": "2021-05-18T13:57:18Z",
-"content": "Morning Express with Robin Meade"
-}
-],
-"comments": []
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "All the New Privacy Settings Google Announced at I/O 2021",
+      "description": "I tuned in to Google I/O this year with privacy on the brain. Chalk it up to the recent drama of Facebook-exec-turned-Apple-employee-turned-unemployed-employee Antonio Garcia Martinez, who famously said in 2018:Read more...",
+      "url": "https://lifehacker.com/all-the-new-privacy-settings-google-announced-at-i-o-20-1846920118",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d6eed54c636565c3156ee3bad362a204.jpg",
+      "publishedAt": "2021-05-18T21:30:00Z",
+      "content": "I tuned in to Google I/O this year with privacy on the brain. Chalk it up to the recent drama of Facebook-exec-turned-Apple-employee-turned-unemployed-employee Antonio Garcia Martinez, who famously s… [+5538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Adam Dachis and A.A. Newton",
+      "title": "How to Declutter Your Home: A Start-to-Finish Guide",
+      "description": "It’s hard to argue that most of us have a little too much stuff lying around, but getting rid of your stuff can be difficult. Maybe you’ve formed a personal attachment to certain items or you truly believe you’ll have a practical use for it someday. Most of t…",
+      "url": "https://lifehacker.com/how-to-de-crapify-your-home-a-start-to-finish-guide-5804927",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8c94053a16a2187ceeb88a8edf79eee.jpg",
+      "publishedAt": "2021-05-18T19:00:00Z",
+      "content": "Its hard to argue that most of us have a little too much stuff lying around, but getting rid of your stuff can be difficult. Maybe youve formed a personal attachment to certain items or you truly bel… [+6307 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/billy-steele",
+      "title": "Here's why AirPods Max don't support Apple Music Lossless",
+      "description": "Apple Music's entire library will be available in lossless soon, but it won't work with AirPods Max. Here's why that's the case.",
+      "url": "https://www.engadget.com/apple-music-lossless-explained-153046070.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-12/94691cd6-4493-11eb-bbe7-b42b9c83cac6",
+      "publishedAt": "2021-05-18T15:30:46Z",
+      "content": "This week, Apple officially announced what had been rumored for a few weeks: lossless audio quality is coming to Apple Music. The higher-quality streaming option will bring CD-quality music at 16-bit… [+5715 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/devindra-hardawar",
+      "title": "Apple iMac M1 review: The ideal portable desktop",
+      "description": "Apple’s new iMac brings together the snappy performance of its M1 chip with a sharp redesign that makes it at home practically anywhere. With its gorgeous screen and surprisingly capable speakers, it’s pretty much the perfect family computer. And it’s so ligh…",
+      "url": "https://www.engadget.com/apple-imac-m1-review-24-inch-portable-desktop-130026556.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/f4fdff24-b752-11eb-9dfe-20ea8e923d92",
+      "publishedAt": "2021-05-18T13:00:26Z",
+      "content": "Apple's M1 processor also makes the iMac responsive in little ways. It wakes up almost instantly from sleep mode and gets to the desktop in around 25 seconds from a cold start, which is dramatically … [+5440 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mat-smith",
+      "title": "The Morning After: Apple Music adds lossless streaming to its entire catalog",
+      "description": "Today’s headlines: AT&T's WarnerMedia is merging with Discovery, Apple Music adds Dolby Atmos and lossless streaming starting next month, Samsung teases its next generation of flexible displays..",
+      "url": "https://www.engadget.com/the-morning-after-apple-music-adds-lossless-streaming-to-its-entire-back-catalog-112022150.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/f0e41200-b7be-11eb-aebf-f5a613bdf71c",
+      "publishedAt": "2021-05-18T11:20:22Z",
+      "content": "Today is Googles day, as its I/O developer conference kicks off. The company canceled last years conference entirely\r\n, ensuring theres plenty to show off this time around. What can we expect to see?… [+5782 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "The next MacBook Pros may pair Apple silicon with 64GB of RAM",
+      "description": "Apple's redesigned 14- and 16-inch MacBook Pros will reportedly pack new chips that support up to 64GB of RAM, not to mention four Thunderbolt ports..",
+      "url": "https://www.engadget.com/apple-macbook-pro-mac-mini-cpu-leaks-151945192.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/c3f773a0-b7e5-11eb-bfff-8865a6ff63da",
+      "publishedAt": "2021-05-18T15:19:45Z",
+      "content": "The 16GB memory ceiling and two Thunderbolt ports on M1-based Macs has left pro users more than a little concerned will the eventual higher-end systems be hobbled compared to their Intel counterparts… [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Fitbit's Sense smartwatch falls to a new low of $240 at Amazon",
+      "description": "This is your chance to grab Fitbit's Sense smartwatch for $90 less than its original price: It's now available for $240 on Amazon..",
+      "url": "https://www.engadget.com/fitbit-sense-smartwatch-new-low-240-amazon-105511337.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/9b4d0180-b7b9-11eb-af7f-42ccca02580e",
+      "publishedAt": "2021-05-18T10:55:11Z",
+      "content": "This is your chance to grab Fitbit's Sense smartwatch for $90 less than its original price: It's now available for $240 on Amazon. That's $9 less than its previous all-time low and the lowest price w… [+1569 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Apple 24-inch M1 iMac review",
+      "description": "Last September we concluded our 27-inch iMac review thusly, The big open question mark here is what the future looks like for the iMac — and how long we’ll have to wait to see it. That is, of course, the perennial question for hardware upgrades, but it’s exac…",
+      "url": "http://techcrunch.com/2021/05/18/apple-24-inch-m1-imac-review/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/CMC_9190.jpg?w=600",
+      "publishedAt": "2021-05-18T13:00:16Z",
+      "content": "Last September we concludedour 27-inch iMac review thusly,\r\nThe big open question mark here is what the future looks like for the iMac and how long well have to wait to see it. That is, of course, th… [+16128 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Frederic Lardinois",
+      "title": "Android now powers 3B devices",
+      "description": "Google’s Android operating system is now running on 3 billion active devices, Google announced at its (virtual) I/O developer conference today. In a briefing before today’s event, the company also noted that there were 250 million active tablets running Andro…",
+      "url": "http://techcrunch.com/2021/05/18/android-now-powers-3b-devices/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/02/00100dPORTRAIT_00100_BURST20190225082039558_COVER.jpg?w=711",
+      "publishedAt": "2021-05-18T18:19:56Z",
+      "content": "Google’s Android operating system is now running on 3 billion active devices, Google announced at its (virtual) I/O developer conference today. In a briefing before today’s event, the company also no… [+875 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Google and Samsung are teaming up to take on Apple’s watchOS",
+      "description": "With a long-standing history of working together on the mobile side, it’s always been a bit of surprise that Samsung hasn’t had much patience for Google’s wearables play. The hardware giant had flirted with Android Wear in the past, but for the last several y…",
+      "url": "http://techcrunch.com/2021/05/18/google-and-samsung-are-teaming-up-to-take-on-apples-watchos/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/wear-os-samsung-google-io-2021.jpg?w=711",
+      "publishedAt": "2021-05-18T18:33:05Z",
+      "content": "With a long-standing history of working together on the mobile side, its always been a bit of surprise that Samsung hasnt had much patience for Googles wearables play. The hardware giant had flirted … [+1657 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Spotify to add automatic transcripts for its own Exclusive and Original podcasts",
+      "description": "Spotify is taking the first step towards making transcripts available for the podcasts on its service. The company announced this morning it’s soon launching a limited beta that will introduce automatic transcripts for its own Spotify Exclusive and Original s…",
+      "url": "http://techcrunch.com/2021/05/18/spotify-to-add-automatic-transcripts-for-its-own-exclusive-and-original-podcasts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1048258424.jpg?w=599",
+      "publishedAt": "2021-05-18T15:52:53Z",
+      "content": "Spotify is taking the first step towards making transcripts available for the podcasts on its service. The company announced this morning it’s soon launching a limited beta that will introduce automa… [+2411 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ingrid Lunden",
+      "title": "Extend raises $260M on a $1.6B valuation to expand its warranty and protection plan services",
+      "description": "A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to buy and file claims against them — is today announcing a huge…",
+      "url": "http://techcrunch.com/2021/05/18/extend-raises-260m-on-a-1-6b-valuation-to-expand-its-warranty-and-protection-plan-services/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/extend.jpg?w=487",
+      "publishedAt": "2021-05-18T14:01:44Z",
+      "content": "A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to b… [+4729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Victoria Song",
+      "title": "Apple Is Reportedly Going to Replace the M1 With a Crapload of New Chips",
+      "description": "Now that Apple’s begun rolling out its M1 product lineup, it’s now reportedly gearing up for the next wave of computers powered by the chip’s multiple successors. And readers, we’re talking about a lot of computers and chips here.Read more...",
+      "url": "https://gizmodo.com/apple-is-reportedly-going-to-replace-the-m1-with-a-crap-1846918048",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f6363f55226ea82661e91f3f87850abb.jpg",
+      "publishedAt": "2021-05-18T16:45:00Z",
+      "content": "Now that Apples begun rolling out its M1 product lineup, its now reportedly gearing up for the next wave of computers powered by the chips multiple successors. And readers, were talking about a lot o… [+2692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Caitlin McGarry",
+      "title": "The New Era of iMacs Brings the M1 Chip, a Pop of Color, and a Camera That Does the Lord's Work",
+      "description": "My early computing days were spent using the family PC, a hulking tower and beefy monitor that sat atop a desk in the dining room. It was not a cute machine and you had absolutely no privacy when you used it, but it belonged to everyone. My siblings and I too…",
+      "url": "https://gizmodo.com/the-new-era-of-imacs-brings-the-m1-chip-a-pop-of-color-1846906927",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/28aa1e42d6e3a0a508b9fc047a99324f.jpg",
+      "publishedAt": "2021-05-18T13:00:00Z",
+      "content": "My early computing days were spent using the family PC, a hulking tower and beefy monitor that sat atop a desk in the dining room. It was not a cute machine and you had absolutely no privacy when you… [+13539 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Brenda Stolyar",
+      "title": "Apple's 24-inch iMac puts the fun back in family computer",
+      "description": "When Apple introduced its 27-inch iMac last year, I had a strong feeling the company was attempting to bring back the family computer. And this year, it looks like Apple actually delivered.\nThe new, colorful 24-inch iMac, which starts at $1,200 and begins shi…",
+      "url": "https://mashable.com/article/apple-imac-24-inch-review-2021/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F75%252F54fa8b5f79ee41c187160a0dfd67855c.a47ef.jpg%252F1200x630.jpg?signature=M3sZS8ZK_J8AUENJdJpmw7TtKyg=",
+      "publishedAt": "2021-05-18T13:00:00Z",
+      "content": "When Apple introduced its 27-inch iMac last year, I had a strong feeling the company was attempting to bring back the family computer. And this year, it looks like Apple actually delivered.\r\nThe new,… [+8512 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Stan Schroeder",
+      "title": "Spotify menu suggests HiFi streaming might launch soon",
+      "description": "In February, Spotify announced a new membership tier called Spotify HiFi, allowing users to listen to music in lossless audio quality. \nNow, right after Apple announced its hi-res streaming feature as part of Apple Music, Spotify finally seems to be getting r…",
+      "url": "https://mashable.com/article/spotify-hifi-icon/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc9%252Ffa5d123d19fd4b1b84959e24b3bf76a7.f1993.png%252F1200x630.png?signature=AE1A4zNzRd6mbo_iM72XWTdHBk4=",
+      "publishedAt": "2021-05-18T13:44:13Z",
+      "content": "In February, Spotify announced a new membership tier called Spotify HiFi, allowing users to listen to music in lossless audio quality. \r\nNow, right after Apple announced its hi-res streaming feature … [+1873 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Sasha Lekach",
+      "title": "You'll soon be able to unlock your car with Android 12's digital key",
+      "description": "Your phone just turned into a car key. \nAt the Google I/O virtual event Tuesday, the company announced a digital car key as part of Android 12. The digital car keys will lock, unlock, and start the car from select Pixel and Samsung Galaxy phones. \nStarting la…",
+      "url": "https://mashable.com/article/google-io-2021-android-digital-car-key/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F09%252F0bfcaa80e7c243beb44f1172df615756.782fd.png%252F1200x630.png?signature=g7Ofu5cFUigyNLYdF4MSV7i1iew=",
+      "publishedAt": "2021-05-18T21:15:00Z",
+      "content": "Your phone just turned into a car key. \r\nAt the Google I/O virtual event Tuesday, the company announced a digital car key as part of Android 12. The digital car keys will lock, unlock, and start the … [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Haley Henschel",
+      "title": "Apple's new 24-inch M1 iMac hasn't even come out yet and it's already on sale",
+      "description": "SAVE $63.98: As of May 18, the blue entry-level configuration of the new 24-inch Apple iMac (2021) is on sale for the first time ever — pre-order it through Amazon for just $1,258.99 ahead of its June 1 release date (down $40.01 from its $1,299 MSRP), and you…",
+      "url": "https://mashable.com/shopping/may-18-apple-24-inch-m1-imac-2021/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F9c%252F5bf4bafe012949f3b305890d74dbd406.1f244.png%252F1200x630.png?signature=zVOhzUJW5DGDJN-l3j2-vMoPLi8=",
+      "publishedAt": "2021-05-18T16:44:37Z",
+      "content": "SAVE $63.98: As of May 18, the blue entry-level configuration of the new 24-inch Apple iMac (2021) is on sale for the first time ever  pre-order it through Amazon for just $1,258.99 ahead of its June… [+2159 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jae Thomas",
+      "title": "Save 45% on a wireless charging pad that can power up 3 devices at once",
+      "description": "TL;DR: Charge away with this 3-in-1 Wireless Charging Pad, on sale for $32.99 — a 45% discount — as of May 18.\n\nIf you haven't already ditched charging cables for good, you're in luck — this 3-in-1 Wireless Charging Pad is on sale for a limited time.\nThis pad…",
+      "url": "https://mashable.com/shopping/may-18-3-in-1-wireless-charging-pad/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc2%252Ffe5e5c3ada4d44aca125b17adba918eb.29771.jpg%252F1200x630.jpg?signature=lmm_4CgLl3uHK9SabTH6_NZCoDY=",
+      "publishedAt": "2021-05-18T09:00:00Z",
+      "content": "TL;DR: Charge away with this3-in-1 Wireless Charging Pad, on sale for $32.99 a 45% discount as of May 18.\r\nIf you haven't already ditched charging cables for good, you're in luck this 3-in-1 Wireless… [+783 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Prince Harry and Oprah discuss mental health in new series trailer",
+      "description": "Prince Harry speaks about mental health in the trailer for an Apple TV+ documentary series with Oprah Winfrey, which aims to destigmatize the topic.",
+      "url": "https://www.cnn.com/videos/media/2021/05/18/prince-harry-oprah-mental-health-interview-the-me-you-cant-see-bts-mxp-vpx.hln",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518094823-prince-harry-doc-series-vpx-super-tease.jpg",
+      "publishedAt": "2021-05-18T13:57:18Z",
+      "content": "Morning Express with Robin Meade"
+    }
+  ],
+  "comments": []
 }
