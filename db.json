@@ -2,32 +2,6 @@
   "articles": [
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ingrid Lunden",
-      "title": "Extend raises $260M on a $1.6B valuation to expand its warranty and protection plan services",
-      "description": "A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to buy and file claims against them — is today announcing a huge…",
-      "url": "http://techcrunch.com/2021/05/18/extend-raises-260m-on-a-1-6b-valuation-to-expand-its-warranty-and-protection-plan-services/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/extend.jpg?w=487",
-      "publishedAt": "2021-05-18T14:01:44Z",
-      "content": "A company that has built a new approach to the business of extended warranties — providing a cost-effective and efficient way for retailers or brands to offer them; and an easy way for consumers to b… [+4729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Victoria Song",
-      "title": "Apple Is Reportedly Going to Replace the M1 With a Crapload of New Chips",
-      "description": "Now that Apple’s begun rolling out its M1 product lineup, it’s now reportedly gearing up for the next wave of computers powered by the chip’s multiple successors. And readers, we’re talking about a lot of computers and chips here.Read more...",
-      "url": "https://gizmodo.com/apple-is-reportedly-going-to-replace-the-m1-with-a-crap-1846918048",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f6363f55226ea82661e91f3f87850abb.jpg",
-      "publishedAt": "2021-05-18T16:45:00Z",
-      "content": "Now that Apples begun rolling out its M1 product lineup, its now reportedly gearing up for the next wave of computers powered by the chips multiple successors. And readers, were talking about a lot o… [+2692 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
@@ -90,32 +64,6 @@
       "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252F9c%252F5bf4bafe012949f3b305890d74dbd406.1f244.png%252F1200x630.png?signature=zVOhzUJW5DGDJN-l3j2-vMoPLi8=",
       "publishedAt": "2021-05-18T16:44:37Z",
       "content": "SAVE $63.98: As of May 18, the blue entry-level configuration of the new 24-inch Apple iMac (2021) is on sale for the first time ever  pre-order it through Amazon for just $1,258.99 ahead of its June… [+2159 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Jae Thomas",
-      "title": "Save 45% on a wireless charging pad that can power up 3 devices at once",
-      "description": "TL;DR: Charge away with this 3-in-1 Wireless Charging Pad, on sale for $32.99 — a 45% discount — as of May 18.\n\nIf you haven't already ditched charging cables for good, you're in luck — this 3-in-1 Wireless Charging Pad is on sale for a limited time.\nThis pad…",
-      "url": "https://mashable.com/shopping/may-18-3-in-1-wireless-charging-pad/",
-      "urlToImage": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc2%252Ffe5e5c3ada4d44aca125b17adba918eb.29771.jpg%252F1200x630.jpg?signature=lmm_4CgLl3uHK9SabTH6_NZCoDY=",
-      "publishedAt": "2021-05-18T09:00:00Z",
-      "content": "TL;DR: Charge away with this3-in-1 Wireless Charging Pad, on sale for $32.99 a 45% discount as of May 18.\r\nIf you haven't already ditched charging cables for good, you're in luck this 3-in-1 Wireless… [+783 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "Prince Harry and Oprah discuss mental health in new series trailer",
-      "description": "Prince Harry speaks about mental health in the trailer for an Apple TV+ documentary series with Oprah Winfrey, which aims to destigmatize the topic.",
-      "url": "https://www.cnn.com/videos/media/2021/05/18/prince-harry-oprah-mental-health-interview-the-me-you-cant-see-bts-mxp-vpx.hln",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518094823-prince-harry-doc-series-vpx-super-tease.jpg",
-      "publishedAt": "2021-05-18T13:57:18Z",
-      "content": "Morning Express with Robin Meade"
     }
   ],
   "comments": []
