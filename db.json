@@ -1,7 +1,10 @@
-[
 {
-"user": "Sasa Trkulja",
-"age": 55,
-"email": "kamaradsasa@gmail.com"
-}
+users: [
+  {
+    id: 1, 
+    user: "Sasa Trkulja",
+    email: "kamaradsasa@gmail.com",
+    password: "Sasa1967"
+  }
 ]
+}
