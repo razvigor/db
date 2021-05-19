@@ -2,32 +2,6 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "David Murphy",
-      "title": "All the New Privacy Settings Google Announced at I/O 2021",
-      "description": "I tuned in to Google I/O this year with privacy on the brain. Chalk it up to the recent drama of Facebook-exec-turned-Apple-employee-turned-unemployed-employee Antonio Garcia Martinez, who famously said in 2018:Read more...",
-      "url": "https://lifehacker.com/all-the-new-privacy-settings-google-announced-at-i-o-20-1846920118",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d6eed54c636565c3156ee3bad362a204.jpg",
-      "publishedAt": "2021-05-18T21:30:00Z",
-      "content": "I tuned in to Google I/O this year with privacy on the brain. Chalk it up to the recent drama of Facebook-exec-turned-Apple-employee-turned-unemployed-employee Antonio Garcia Martinez, who famously s… [+5538 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Adam Dachis and A.A. Newton",
-      "title": "How to Declutter Your Home: A Start-to-Finish Guide",
-      "description": "It’s hard to argue that most of us have a little too much stuff lying around, but getting rid of your stuff can be difficult. Maybe you’ve formed a personal attachment to certain items or you truly believe you’ll have a practical use for it someday. Most of t…",
-      "url": "https://lifehacker.com/how-to-de-crapify-your-home-a-start-to-finish-guide-5804927",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8c94053a16a2187ceeb88a8edf79eee.jpg",
-      "publishedAt": "2021-05-18T19:00:00Z",
-      "content": "Its hard to argue that most of us have a little too much stuff lying around, but getting rid of your stuff can be difficult. Maybe youve formed a personal attachment to certain items or you truly bel… [+6307 chars]"
-    },
-    {
-      "source": {
         "id": "engadget",
         "name": "Engadget"
       },
